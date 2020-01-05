@@ -96,9 +96,5 @@ public class TaxeAnnulleRest {
 //    @PutMapping(value = "/taxeAnnuelle/id/{id}")
 //    public void calculeMontant(@PathVariable Long id) {
 //        taxeAnnuelleService.calculeMontant(taxeAnnuelle);
-//    }
-//    @PutMapping(value="/")
-//        public void update(TaxeAnnuelle taxeAnnuelle) {
-//             taxeAnnuelleService.update(taxeAnnuelle);
-//        }
+//    } 
 }
